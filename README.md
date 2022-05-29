@@ -1,3 +1,9 @@
+#### Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bulanbintang69/megasdl)</br>
+
+
+
+
 # Mega.nz-Bot
 A simple telegram bot written in Python using Pyrogram framework which helps you to download, upload and import [^1] files / folders from [Mega.nz](https://mega.nz/) cloud storage with telegram.
 
